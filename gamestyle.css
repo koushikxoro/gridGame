@@ -1,0 +1,51 @@
+#main_col
+{   margin-top:1000px;
+    margin: auto;
+    border:9px groove aqua;
+    border-radius: 12px;
+}
+#main_col td
+{
+    width:5em;
+    height: 4em;
+    padding: 0.07em;
+    border:1px groove white;
+    
+}
+
+input[type="checkbox"]{
+  width: 4em; 
+  height: 4em; 
+}
+#selection
+{  font-size:22px;
+    margin:auto;
+    border:3px black solid;
+    padding: 2px;
+    text-align: center
+}
+#selection a
+{ font-family:cursive;
+    text-decoration: none;
+    color:aliceblue;
+}
+#selection a:hover
+{
+    text-decoration:underline;
+    color:aliceblue;
+}
+#selection td
+{
+    width:5em;
+    
+    border:solid 0.1px;
+}
+input[type="reset"]
+{
+    width:5em;
+    height: 1.5em;
+    background-color:black;
+    color:aliceblue;
+    font-family: cursive;
+    font-size:22px;
+}
